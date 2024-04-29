@@ -1,5 +1,5 @@
 ## Post-Game Stats
-This is my answer for a mini assignment on Codédex.
+This is my solution for a mini assignment on Codédex.
 
 ### Task:
 As a data analyst for the Kansas City Chiefs, and you have been given a dataset containing information about the players, their positions, and some game statistics.
